@@ -1,0 +1,24 @@
+﻿<style>
+   #jerry{
+      font-family:隶书;font-size:58;color:blue;
+      
+   }
+   #tom{
+      font-family:楷体;font-size:33;color:blue;
+      
+   }
+</style>
+<div align="center">
+<p id=jerry>小蜜蜂手机销售网</p>
+<table  cellSpacing="1" cellPadding="1" width="900" align="center" border="0" >
+   <tr valign="bottom">
+   <td id=tom><a href="inputRegisterMess.jsp">注册</a></td>
+   <td id=tom><a href="login.jsp">登录</a></td>
+   <td id=tom><a href="lookMobile.jsp">浏览手机</a></td>
+   <td id=tom><a href="searchMobile.jsp">查询手机</a></td>
+   <td id=tom><a href="lookShoppingCar.jsp">查看购物车</a></td>
+   <td id=tom><a href="lookOrderForm.jsp">查看订单</a></td>
+   <td id=tom><a href="exitServlet">退出</font></td>
+   <td id=tom><a href="index.jsp">主页</a></td>
+</tr>
+</table></div>
